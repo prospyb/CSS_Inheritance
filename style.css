@@ -1,0 +1,113 @@
+/* CSS likes */
+
+.parent_likes {
+    background-color: aqua;
+}
+
+#parent_likes_id {
+    background-color: red;
+}
+
+.first_child {
+    color: gray;
+}
+
+#first_child_id {
+    color: #fff;
+}
+
+.sec_child {
+    color: #fff;
+}
+
+#sec_child_id {
+    color: lightsalmon;
+}
+
+.thrid_child {
+    color: aqua;
+    font-size: 1.5rem;
+}
+
+#thrid_child_id {
+    color: greenyellow;
+    font-size: 0.8rem;
+}
+
+.fourth_child {
+    color: blue;
+    font-size: 2rem;
+}
+
+#fourth_child_id {
+    color:peru;
+    font-size: 1.5rem;
+}
+
+#fifth_child_id {
+    font-weight: bold;
+}
+
+.fith_child {
+    font-weight:normal;
+}
+
+/* CSS Dislikes */
+
+.parent_dislikes {
+    background-color: blue;
+}
+
+#parent_dislikes_id {
+    background-color: gray;
+}
+
+#first_dislikes_id {
+    font-size: 1rem;
+    list-style: none;
+}
+
+.first_dislikes {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.sec_dislikes {
+    color: chocolate;
+    list-style: circle;
+}
+
+#sec_dislikes_id {
+    color: deeppink;
+    list-style: square;
+}
+
+#thrid_dislikes_id {
+    font-style: italic;
+    font-size: 1.5rem;
+    color: coral;
+}
+
+.thrid_dislikes {
+    color: #fff;
+}
+
+#fourth_dislikes_id {
+    font-family: sans-serif;
+    color: darkgreen;
+    font-style: inherit;
+}
+
+.fourth_dislikes {
+    font-family: times new roman;
+    ;
+}
+
+.fifth_dislikes {
+    color:orangered;
+}
+
+#fifth_dislikes_id {
+    color: #fff;
+    font-style: italic;
+}
